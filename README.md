@@ -57,3 +57,10 @@
 <h2> O Aplicativo</h2>
    
   Integrado com tecnologia de conectividade avançada, o protótipo transmite dados em tempo real para um aplicativo móvel desenvolvido em Flutter, permitindo aos usuários visualizar as condições climáticas atuais através de uma interface intuitiva. O uso do Firebase como banco de dados assegura o armazenamento seguro e a fácil recuperação de dados climáticos históricos, habilitando análises detalhadas e a previsão de tendências climáticas.
+
+
+https://github.com/IniciacaoCefet/EstacaoMeteorologica/assets/104327830/85d88097-5a34-4fd7-ae0f-856447e2408c
+
+
+
+  
