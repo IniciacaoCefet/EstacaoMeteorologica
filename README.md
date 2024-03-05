@@ -44,7 +44,7 @@
   - `Sensor de obstáculos Reflexivo com Anemômetro`: Avalia a velocidade do vento, fornecendo dados críticos para a proteção das culturas e estruturas agrícolas contra danos causados por ventos fortes.
   <h2> Design </h2>
    O protótipo apresenta um design modular e compacto, facilitando a instalação em diversos ambientes agrícolas. Com componentes eletrônicos alojados em uma caixa protetora impressa em 3D, o dispositivo é projetado para resistir a condições externas adversas, como chuva, poeira e exposição solar prolongada. 
-   <img src="/assets/img/arquivo1.gif">
+   <img src="/src/img/arquivo1.gif">
 
 
    
