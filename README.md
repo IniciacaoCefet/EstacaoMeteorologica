@@ -30,7 +30,7 @@
   - `Aplicativo`: Flutter para desenvolvimento de aplicativo móvel.
   - `Banco de Dados`: Firebase.
 
-<h2> O protótipo<h2>
+<h2> O protótipo</h2>
 
    O protótipo da Estação Meteorológica do Projeto Evet é uma solução integrada de monitoramento climático desenhada especificamente para atender às necessidades dos agricultores, permitindo-lhes acessar dados climáticos precisos e em tempo real para melhorar a tomada de decisões e otimizar a produção agrícola.
    
@@ -54,6 +54,6 @@
 
 
 
-<h2> O Aplicativo<h2>
+<h2> O Aplicativo</h2>
    
   Integrado com tecnologia de conectividade avançada, o protótipo transmite dados em tempo real para um aplicativo móvel desenvolvido em Flutter, permitindo aos usuários visualizar as condições climáticas atuais através de uma interface intuitiva. O uso do Firebase como banco de dados assegura o armazenamento seguro e a fácil recuperação de dados climáticos históricos, habilitando análises detalhadas e a previsão de tendências climáticas.
