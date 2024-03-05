@@ -46,6 +46,12 @@
    O protótipo apresenta um design modular e compacto, facilitando a instalação em diversos ambientes agrícolas. Com componentes eletrônicos alojados em uma caixa protetora impressa em 3D, o dispositivo é projetado para resistir a condições externas adversas, como chuva, poeira e exposição solar prolongada. 
    <img src="/src/img/Arquivo1.png">
 
+   <img src="/src/img/Arquivo4.png">
+
+   <img src="/src/img/Arquivo2.png">
+
+   <img src="/src/img/Arquivo3.png">
+
 
    
   -- Explicar a demonstração da aplicação da estação junto com o aplicativo --
